@@ -1,0 +1,4 @@
+REPLACE_WITH_YOUR_GITHUB_USERNAME
+
+After pushing to GitHub, use:
+https://github.com/YOUR_USERNAME/emotion-detector-final/blob/main/EmotionDetection/__init__.py
